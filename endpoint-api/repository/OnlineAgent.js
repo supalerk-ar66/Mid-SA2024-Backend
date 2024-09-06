@@ -142,4 +142,3 @@ module.exports.OnlineAgentRepo = {
     postOnlineAgentStatus: postOnlineAgentStatus,
     deleteOnlineAgent: deleteOnlineAgent
 }
-
