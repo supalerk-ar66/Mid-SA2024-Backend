@@ -10,7 +10,7 @@ process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 
 const databaseUri = process.env.DATABASE_URI || process.env.MONGODB_URI;
 
-var apiport = 4000;
+var apiport = 8105;
 
 const config = {
   databaseURI: 'mongodb://team1_wallboarduser:WB1qazxsw2@10.21.43.203:27017/team1_wallboarddb',
